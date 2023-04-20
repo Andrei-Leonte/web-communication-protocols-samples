@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=stmasterclassassist;AccountKey=HicMpovHeSWqpvmrHK5sgnMgQw/c7XhLn50XY/48aC7pfjvzKRds0IF+IKzch39DJGqSIYZR8IZi+AStEYSCUw==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureSignalRConnectionString": "Endpoint=https://masterclass.service.signalr.net;AccessKey=2iLpUfRwmcfC+/WKlyuQu83K/Q2HmOqwqCw0TrfkQuM=;Version=1.0;"
+  },
+  //"CORS": "*",
+  "Host": {
+    "CORSCredentials": true,
+    "CORS": "http://localhost:7010"
+  }
+}
